@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discoveries of John Lederer in three several marches from Virginia to the west of Carolina and other parts of the continent begun in March, 1669 and ended in September, 1670 : together with a general map of the whole territory which he traversed / collected and translated out of Latine from his discourse and writings, by Sir William Talbot, Baronet.</title>
+            <author>Lederer, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49917</idno>
+            <idno type="STC">Wing L835</idno>
+            <idno type="STC">ESTC R20763</idno>
+            <idno type="EEBO-CITATION">12404556</idno>
+            <idno type="OCLC">ocm 12404556</idno>
+            <idno type="VID">61341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 281:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discoveries of John Lederer in three several marches from Virginia to the west of Carolina and other parts of the continent begun in March, 1669 and ended in September, 1670 : together with a general map of the whole territory which he traversed / collected and translated out of Latine from his discourse and writings, by Sir William Talbot, Baronet.</title>
+                  <author>Lederer, John.</author>
+                  <author>Talbot, William, Sir.</author>
+               </titleStmt>
+               <extent>[10], 27 p., [1] leaf of plates : 1 folded map  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Samuel Heyrick ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of an unindentified work in Latin.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Virginia.</term>
+               <term>Indians of North America --  North Carolina.</term>
+               <term>Virginia --  Description and travel.</term>
+               <term>North Carolina --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:61341:1"/>
+            <p>Licenſed, Nov. 1. 1671. ROGER L'ESTRANGE.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:61341:1"/>
+            <p>THE DISCOVERIES OF <hi>JOHN LEDERER,</hi> In three ſeveral Marches from VIRGINIA, To the Weſt of Carolina, And other parts of the Continent: Begun in <hi>March</hi> 1669, and ended in <hi>September</hi> 1670.</p>
+            <p>Together with A General MAP of the whole Territory which he traverſed.</p>
+            <p>Collected and Tranſlated out of Latine from his Diſcourſe and Writings, By Sir <hi>William Talbot</hi> Baronet.</p>
+            <q>
+               <l>Sed nos immenſum ſpatiis confecimus aequor,</l>
+               <l>Et jam tempus equum fumantia ſolvere colla.</l>
+               <bibl>Virg. Georg.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> for <hi>Samuel Heyrick,</hi> at Grays-Inne-gate in Holborn. 1672.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:61341:2"/>
+            <pb facs="tcp:61341:2"/>
+            <head>To the Right Honourable <hi>ANTHONY</hi> Lord ASHLEY, Baron <hi>Aſhley</hi> of <hi>Wimborn St. Giles,</hi> Chancellor of his Majeſties Exchequer, <g ref="char:V">Ʋ</g>nder-Treaſurer of <hi>England,</hi> One of the Lords Commiſſioners of his Ma<g ref="char:EOLhyphen"/>jesties Treaſury, one of the Lords of his moſt Honourable Privie Council, and one of the Lords Proprie<g ref="char:EOLhyphen"/>tors of <hi>CAROLINA.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Rom this diſcourſe it is clear that the long looked-for diſcovery of the <hi>Indian</hi> Sea does nearly approach; and <hi>Carolina,</hi> out of her happy experience of your Lord<g ref="char:EOLhyphen"/>ſhips ſucceſs in great undertakings, preſumes that the accompliſhment of this glorious Deſigne is reſerved for her. In order to which, the <hi>Apalataean</hi> Mountains (though like the prodigious Wall that divides <hi>Chi<g ref="char:EOLhyphen"/>na</hi>
+               <pb facs="tcp:61341:3"/>and <hi>Tartary,</hi> they deny <hi>Virginia</hi> paſſage into the Weſt Continent) ſtoop to your Lordſhips Dominions, and lay open a Pro<g ref="char:EOLhyphen"/>ſpect into unlimited Empires; Empires that will hereafter be ambitious of ſubjection to that noble Government which by your Lordſhips deep wiſdom and providence firſt projected, is now eſtabliſhed in <hi>Caroli<g ref="char:EOLhyphen"/>na;</hi> for it will appear that ſhe flouriſhes more by the influence of that, than the ad<g ref="char:EOLhyphen"/>vantages ſhe derives from her Climate and Soyl, which yet do render her the Beauty and Envy of North-<hi>America.</hi> That all her glories ſhould be ſeen in this Draught, is not reaſonably to be expected, ſince ſhe ſate to my Author but once, and then too with a ſide-face; and therefore I muſt own it was never by him deſigned for the Preſs, but publiſhed by me, out of no other ambition than that of manifeſting to the world, that I am,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble and obedient Servant, <hi>William Talbot.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:61341:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat a Stranger ſhould preſume (though with Sir <hi>William Berk<g ref="char:EOLhyphen"/>ly</hi>'s Commiſſion) to go into thoſe Parts of the <hi>American</hi> Continent where <hi>Engliſhmen</hi> never had been, and whi<g ref="char:EOLhyphen"/>ther ſome refuſed to accompany him, was, in <hi>Virginia</hi> look'd on as ſo great an inſolence, that our Traveller at his Return, inſtead of Welcom and Applauſe, met nothing but Af<g ref="char:EOLhyphen"/>fronts and Reproaches; for indeed it was their part, that forſook him in the Expedi<g ref="char:EOLhyphen"/>tion, to procure him diſcredit that was a witneſs to theirs: Therefore no induſtry was wanting to prepare Men with a prejudice against him, and this their malice improved to ſuch a general Animoſity, that he was not ſafe in <hi>Virginia</hi> from the outrage of the Peo<g ref="char:EOLhyphen"/>ple, drawn into a perſwaſion, that the Pub<g ref="char:EOLhyphen"/>lick Levy of that year, went all to the ex<g ref="char:EOLhyphen"/>pence
+<pb facs="tcp:61341:4"/>of his Vagaries. Forced by this ſtorm into <hi>Maryland,</hi> he became known to me, though then ill-affected to the Man, by the ſtories that went about of him: Neverthe<g ref="char:EOLhyphen"/>leſs finding him, contrary to my expectation, a modeſt ingenious perſon, &amp; a pretty Scho<g ref="char:EOLhyphen"/>lar, I thought it common Juſtice to give him an occaſion of vindicating himſelf from what I had heard of him; which truly he did with ſo convincing Reaſon and circum<g ref="char:EOLhyphen"/>ſtance, as quite aboliſhed thoſe former im<g ref="char:EOLhyphen"/>preſſions in me, and made me deſire this Ac<g ref="char:EOLhyphen"/>count of his Travels, which here you have faithfully rendred out of Latine from his own Writings and Diſcourſe, with an entire Map of the Territory he traverſed, copied from his own hand. All theſe I have com<g ref="char:EOLhyphen"/>pared with <hi>Indian</hi> Relations of thoſe parts (though I never met with any <hi>Indian</hi> that had followed a Southweſt-Courſe ſo far as this <hi>German</hi>) and finding them agree, I thought the Printing of theſe Papers was no injury to the Author, and might prove a Service to the Publick.</p>
+            <closer>
+               <signed>William Talbot.</signed>
+            </closer>
+            <pb facs="tcp:61341:4"/>
+            <pb facs="tcp:61341:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="map">
+            <p>
+               <figure>
+                  <figDesc>map of Carolina and Virginia</figDesc>
+                  <head>A MAP OF THE WHOLE TERRITORY TRAVERSED BY IOHN LEDERER IN HIS THREE MARCHES.</head>
+                  <figure>
+                     <figDesc>list of events on map</figDesc>
+                     <p>
+                        <list>
+                           <item>1. the firſt March</item>
+                           <item>2. the ſecond March to Mahock</item>
+                           <item>3. the place where the Engliſh left him, and his March alone to Uſhery</item>
+                           <item>4. His March home againe.</item>
+                           <item>5. The third March</item>
+                           <item>6. a quick ſand at the head of Rapahanock river</item>
+                           <item>7. The Lake of Uſhery</item>
+                           <item>8. A great Mariſh</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <head>SAVANAE</head>
+                  <head>VIRGINIA</head>
+                  <head>CAROLINA</head>
+                  <head>PARS</head>
+                  <p>The Rickohockeans</p>
+                  <p>The Meſs amomecks dwelt heretofore beyond theſe Mountaines</p>
+                  <p>Mons Guliel <g ref="char:cross">✚</g> Gubern</p>
+                  <p>Mons Car<g ref="char:cross">✚</g> Reg</p>
+                  <p>dom: Reg</p>
+                  <p>Vſhery</p>
+                  <p>Wiſhacky</p>
+                  <p>Sara</p>
+                  <p>Watary</p>
+                  <p>Shabo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cenock</p>
+                  <p>Akena<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</p>
+                  <p>Sapon</p>
+                  <p>Nabiſſan</p>
+                  <p>Mahock</p>
+                  <p>De ser ta a re no sa</p>
+                  <p>Toſ<g ref="char:EOLunhyphen"/>ki</p>
+                  <p>Kateras</p>
+                  <p>Kaunitzi hockan</p>
+                  <p>Mend<g ref="char:EOLunhyphen"/>oerink</p>
+                  <p>Mona<g ref="char:EOLunhyphen"/>kin</p>
+                  <p>Ponraith</p>
+                  <p>Monſkin</p>
+                  <p>Shi<g ref="char:EOLhyphen"/>koham</p>
+                  <p>Rob Talifer</p>
+                  <p>Eruco fl:</p>
+                  <p>Rorenack alias Shanan fl:</p>
+                  <p>Apamatuck fl:</p>
+                  <p>Ponathan fl:</p>
+                  <p>Poemoeoncock fl:</p>
+                  <p>Tottopotama</p>
+                  <p>Ackmick fl:</p>
+                  <p>Metapenan fl: rap</p>
+                  <figure>
+                     <figDesc>map key</figDesc>
+                  </figure>
+                  <byline>Croſs Sculpſit</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:61341:6"/>
+            <pb n="1" facs="tcp:61341:6"/>
+            <head>THE Diſcoveries of JOHN LEDERER from <hi>Virginia</hi> to the Weſt of <hi>Carolina,</hi> and other parts of the Continent.</head>
+            <div type="part">
+               <head>A General and brief Account of the North-<hi>American</hi> Continent.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Orth, as well as South-<hi>America,</hi> may be di<g ref="char:EOLhyphen"/>vided into three Regions: the Flats, the Highlands, and the Mountains. The Flats (in Indian, <hi>Ahkynt</hi>) is the Terri<g ref="char:EOLhyphen"/>tory lying between the Eaſtern Coaſt, and the falls of the great Rivers, that there run into the <hi>Atlantick</hi> Ocean, in extent generally taken Ninety miles. The Highlands (in Indian, <hi>Ahkontſhuck</hi>) begin at thoſe falls, and determine at the foot of the great ridge of Mountains that runs thorow the midſt of this Con<g ref="char:EOLhyphen"/>tinent, Northeaſt and Southweſt, called by the Spaniards <hi>A<g ref="char:EOLhyphen"/>palataei,</hi> from the Nation <hi>Apalakin;</hi> and by the Indians, <hi>Pae<g ref="char:EOLhyphen"/>motinck.</hi>
+                  <pb n="2" facs="tcp:61341:7"/>According to the beſt of my obſervation and con<g ref="char:EOLhyphen"/>jecture, they lie parallel to the <hi>Altantick</hi> Sea-coaſt, that bearing from <hi>Canada</hi> to Cape <hi>Florida,</hi> Northeaſt and South<g ref="char:EOLhyphen"/>weſt, and then falling off due Weſt as the Mountains do at <hi>Sara:</hi> but here they take the name of <hi>Suala; Sara</hi> in the <hi>Warrennuncock</hi> dialect being <hi>Saſa</hi> or <hi>Sualy.</hi>
+               </p>
+               <p>The Flats, of <hi>Ahkynt,</hi> are by former Writers made ſo well known to Chriſtendom, that I will not ſtop the Reader here, with an unneceſſary deſcription of them; but ſhall onely ſay, that by the rankneſs of the Soyl, and ſalt moiſt<g ref="char:EOLhyphen"/>neſs of the Air, daily diſcoveries of Fiſh-ſhells three fathom deep in the earth, and Indian tradition; theſe parts are ſup<g ref="char:EOLhyphen"/>poſed ſome Ages paſt to have lain under the Sea.</p>
+               <p>The Highlands (or <hi>Ahkontſhuch</hi>) though under the ſame Parallels, are happie notwithſtanding in a more temperate and healthful Air. The ground is over-grown with under<g ref="char:EOLhyphen"/>wood in many places, and that ſo perplext and interwoven with Vines, that who travels here, muſt ſometimes cut through his way. Theſe Thickets harbour all ſorts of beaſts of prey, as Wolves, Panthers, Leopards, Lions, <hi>&amp;c.</hi> (which are neither ſo large nor ſo fierce as thoſe of <hi>Aſia</hi> and <hi>Africa</hi>) and ſmall Vermine, as wilde Cats, Foxes, Racoons. Theſe parts were formerly poſſeſſed by the <hi>Tacci,</hi> aliàs <hi>Dogi;</hi> but they are extinct; and the Indians now ſeated here, are di<g ref="char:EOLhyphen"/>ſtinguiſhed into the ſeveral Nations of <hi>Mahoc, Nuntaneuck,</hi> a<g ref="char:EOLhyphen"/>liàs <hi>Nuntaly, Nahyſſan, Sapon, Managog, Mangoack, Akenat<g ref="char:EOLhyphen"/>zy,</hi> and <hi>Monakin,</hi> &amp;c. One Language is common to them all, though they differ in Dialects. The parts inhabited here are pleaſant and fruitful, becauſe cleared of Wood, and laid open to the Sun. The Valleys feed numerous herds of Deer and Elks larger then Oxen: theſe Valleys they call <hi>Savanae,</hi> being Mariſh grounds at the foot of the <hi>Apalataei,</hi> and year<g ref="char:EOLhyphen"/>ly laid under water in the beginning of Summer by flouds of melted Snow falling down from the Mountains.</p>
+               <p>The <hi>Apalataean</hi> Mountains, called in Indian <hi>Paemotinck,</hi> (or the origine of the Indians) are barren Rocks, and
+<pb n="3" facs="tcp:61341:7"/>therefore deſerted by all living creatures but Bears, who cave in the hollow Cliffs. Yet do theſe Mountains ſhoot out to the Eaſtward great Promontories of rich Land, known by the high and ſpreading trees which they bear: theſe Pro<g ref="char:EOLhyphen"/>montories, becauſe lower then the main Ridge, are called by the Indians <hi>Tanx-Paemotinck</hi> (aliàs <hi>Aquatt</hi>). To the North<g ref="char:EOLhyphen"/>eaſt the Mountains riſe higher; and at <hi>Sara</hi> they ſink ſo low, that they are eaſily paſſed over: but here (as was ſaid before) they change their courſe and name, running due Weſt, and being called <hi>Sualy:</hi> now the <hi>Sualian</hi> Mountains riſe higher and higher Weſtward.</p>
+            </div>
+            <div type="part">
+               <head>Of the Manners and Customs of the <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> inhabiting the Weſtern parts of <hi>Ca<g ref="char:EOLhyphen"/>rolina</hi> and <hi>Virginia.</hi>
+               </head>
+               <p>THe Indians now ſeated in theſe parts, are none of thoſe which the Engliſh removed from <hi>Virginiae,</hi> but a peo<g ref="char:EOLhyphen"/>ple driven by an Enemy from the Northweſt, and invited to ſit down here by an Oracle above four hundred years ſince, as they pretend: for the ancient inhabitants of <hi>Virginia</hi> were far more rude and barbarous, feeding onely upon raw fleſh and fiſh, until theſe taught them to plant Corn, and ſhewed them the uſe of it.</p>
+               <p>But before I treat of their ancient Manners and Cuſtoms, it is neceſſary I ſhould ſhew by what means the knowledge of them hath been conveyed from former ages to poſterity. Three ways they ſupply their want of Letters: firſt by Counters, ſecondly by Emblemes or Hieroglyphicks, third<g ref="char:EOLhyphen"/>ly Tradition delivered in long Tales from father to ſon, which being children they are made to learn by rote.</p>
+               <pb n="4" facs="tcp:61341:8"/>
+               <p>For Counters, they uſe either Pebbles, or ſhort ſcantlings of ſtraw or reeds. Where a Batted has been fought, or a Colony ſeated, they raiſe a ſmall Pyramid of theſe ſtones, conſiſting of the number ſlain or tranſplanted. Their reeds and ſtraws ſerve them in Religious Ceremonies: for they lay them orderly in a Circle when they prepare for Devo<g ref="char:EOLhyphen"/>tion or Sacrifice; and that performed, the Circle remains ſtill; for it is Sacriledge to diſturb or to touch it: the diſ<g ref="char:EOLhyphen"/>poſition and ſorting of the ſtraws and reeds, ſhew what kinde of Rites have there been celebrated, as Invocation, Sa<g ref="char:EOLhyphen"/>crifice, Burial, <hi>&amp;c.</hi>
+               </p>
+               <p>The faculties of the minde and body they commonly ex<g ref="char:EOLhyphen"/>preſs by Emblems. By the figure of a Stag, they imply ſwiftneſs; by that of a Serpent, wrath; of a Lion, courage; of a Dog, fidelity: by a Swan, they ſignifie the <hi>Engliſh,</hi> alluding to their complexion, and flight over the Sea.</p>
+               <p>An account of Time, and other things, they keep on a ſtring or leather thong tied in knots of ſeveral colours. I took particular notice of ſmall Wheels ſerving for this purpoſe amongſt the <hi>Oenocks,</hi> becauſe I have heard that the <hi>Mexicans</hi> uſe the ſame. Every Nation gives his particular Enſigne or Arms: The <hi>Saſqueſahanaugh</hi> a Tarapine, or ſmall Tortoiſe; the <hi>Akenatzy's</hi> a Serpent; the <hi>Nahyſſanes</hi> three Arrows, <hi>&amp;c.</hi> In this they likewiſe agree with the <hi>Mexican</hi> Indians. <hi>Vid. Joſ. à Coſta.</hi>
+               </p>
+               <p>They worſhip one God, Creator of all things, whom ſome call <hi>Okaeè,</hi> others <hi>Mannith:</hi> to him alone the High-prieſt, or <hi>Periku,</hi> offers Sacrifice; and yet they believe he has no regard to ſublunary affairs, but commits the Government of Mankinde to leſſer Deities, as <hi>Quiacoſough</hi> and <hi>Tagka<g ref="char:EOLhyphen"/>nyſough,</hi> that is, good and evil Spirits: to theſe the inferi<g ref="char:EOLhyphen"/>our Prieſts pay their devotion and Sacrifice, at which they make recitals, to a lamentable Tune, of the great things done by their Anceſtors.</p>
+               <p>From four women, <hi>viz. Paſh, Sepoy, Askarin,</hi> and <hi>Mara<g ref="char:EOLhyphen"/>skarin,</hi> they derive the Race of Mankinde; which they
+<pb n="5" facs="tcp:61341:8"/>therefore divide into four Tribes, diſtinguiſhed under thoſe ſeveral names. They very religiouſly obſerve the degrees of Marriage, which they limit not to diſtance of Kindred, but difference of Tribes, which are continued in the iſſue of the Females: now for two of the ſame Tribe to match, is ab<g ref="char:EOLhyphen"/>horred as Inceſt, and puniſhed with great ſeverity.</p>
+               <p>Their places of Burial they divide into four quarters, aſ<g ref="char:EOLhyphen"/>ſigning to every Tribe one: for, to mingle their bodies, e<g ref="char:EOLhyphen"/>ven when dead, they hold wicked and ominous. They commonly wrap up the corpſe in beaſts skins, and bury with it Proviſion and Houſholdſtuff for its uſe in the other world. When their great men die, they likewiſe ſlay priſo<g ref="char:EOLhyphen"/>ners of War to attend them. They believe the tranſmi<g ref="char:EOLhyphen"/>gration of ſouls: for the Angry they ſay is poſſeſt with the ſpirit of a Serpent; the Bloudy, with that of a Wolf; the Timorous, of a Deer; the Faithful, of a Dog, <hi>&amp;c.</hi> and therefore they are figured by theſe Emblemes.</p>
+               <p>
+                  <hi>Elizium,</hi> or the abode of their leſſer Deities, they place beyond the Mountains and Indian Ocean.</p>
+               <p>Though they want thoſe means of improving Humane Reaſon, which the uſe of Letters affords us; let us not therefore conclude them wholly deſtitute of Learning and Sciences: for by theſe little helps which they have found, many of them advance their natural underſtandings to great knowledge in Phyſick, Rhetorick, and Policie of Govern<g ref="char:EOLhyphen"/>ment: for I have been preſent at ſeveral of their Conſulta<g ref="char:EOLhyphen"/>tions and Debates, and to my admiration have heard ſome of their Seniors deliver themſelves with as much Judgement and Eloquence as I ſhould have expected from men of Ci<g ref="char:EOLhyphen"/>vil education and Literature.</p>
+            </div>
+            <div n="first expedition" type="part">
+               <pb n="6" facs="tcp:61341:9"/>
+               <head>The Firſt EXPEDITION, From the head of <hi>Pemaeoncock,</hi> aliàs <hi>York-River</hi> (due Weſt<g ref="char:punc">▪</g> to the top of the <hi>A<g ref="char:EOLhyphen"/>palataean</hi> Mountains.</head>
+               <p>UPon the ninth of <hi>March</hi> 1669, (with three Indians whoſe names were <hi>Magtakunh, Hopottoguoh,</hi> and <hi>Naunnugh</hi>) I went out at the falls of <hi>Pemaeoncock</hi> aliàs <hi>York-River</hi> in <hi>Virginia,</hi> from an Indian Village called <hi>Shicke<g ref="char:EOLhyphen"/>hamany,</hi> and lay that night in the Woods, encountring no<g ref="char:EOLhyphen"/>thing remarkable, but a Rattle-ſnake of an extraordinary length and thickneſs, for I judged it two yards and a half or better from head to tail, and as big about as a mans arm: by the diſtention of her belly, we believed her full with young; but having killed and opened her, found there a ſmall Squirrel whole; which cauſed in me a double won<g ref="char:EOLhyphen"/>der: firſt, how a Reptile ſhould catch ſo nimble a creature as a Squirrel; and having caught it, how ſhe could ſwallow it entire. The Indians in reſolving my doubts, plunged me into a greater aſtoniſhment, when they to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d me that it was uſual in theſe Serpents, when they lie basking in the Sun, to fetch down theſe Squirrels from the tops of trees, by fixing their eyes ſtedfaſtly upon them; the horrour of which ſtrikes ſuch an affrightment into the little beaſt, that he has no power to hinder himſelf from tumbling down into the jaws of his enemy, who takes in all his ſuſtenance without chew<g ref="char:EOLhyphen"/>ing, his teeth ſerving him onely to offend withal. But I ra<g ref="char:EOLhyphen"/>ther believe what I have heard from others, that theſe Ser<g ref="char:EOLhyphen"/>pents climb the trees, and ſurpriſe their prey in the neſt.</p>
+               <p>The next day talling into Mariſh grounds between <hi>Pemae<g ref="char:EOLhyphen"/>oncock</hi> and the head of the River <hi>Matapeneugh,</hi> the heavineſs of the way obliged me to croſs <hi>Pemaeoncock,</hi> where its North
+<pb n="7" facs="tcp:61341:9"/>and South-branch (called <hi>Ackmick</hi>) joyn in one. In the Peninſula made by theſe two branches, a great Indian King called <hi>Tottopottoma</hi> was heretofore ſlain in Battel, fighting for the Chriſtians againſt the <hi>Mahocks</hi> and <hi>Nahyſſans,</hi> from whence it retains his name to this day. Travelling thorow the Woods, a Doe ſeized by a wild Cat croſſed our way; the miſerable creature being even ſpent and breathleſs with the burden and cruelty of her rider, who having faſtned on her ſhoulder, left not ſucking out her bloud until ſhe ſunk under him: which one of the Indians perceiving, let flie a luckie Arrow, which piercing him thorow the belly, made him quit his prey already ſlain, and turn with a terrible grimas at us; but his ſtrength and ſpirits failing him, we eſcaped his re<g ref="char:EOLhyphen"/>venge, which had certainly enſued, were not his wound mortal. This creature is ſomething bigger then our Eng<g ref="char:EOLhyphen"/>liſh Fox, of a reddiſh grey colour, and in figure every way agreeing with an ordinary Cat; fierce, ravenous and cun<g ref="char:EOLhyphen"/>ning: for finding the Deer (upon which they delight moſt to prey) too ſwift for them, they watch upon branches of trees, and as they walk or feed under, jump down upon them. The Fur. of the wilde Cat, thought not very fine, is yet eſteemed for its vertue in taking away cold Aches and Pains, being worn next to the body: their fleſh, though rank as a Dogs, is eaten by the Indians.</p>
+               <p>The eleventh and twelfth, I found the ways very uneven, and cumbred with buſhes.</p>
+               <p>The thirteenth, I reached the firſt Spring of <hi>Pemaeoncock,</hi> having croſſed the River four times that day, by reaſon of its many windings; but the water was ſo ſhallow, that it hardly wet my horſes paſterns. Here a little under the ſur<g ref="char:EOLhyphen"/>face of the earth, I found flat pieces petrified matter, of one ſide ſolid Stone, but on the other ſide I ſinglas, which I ea<g ref="char:EOLhyphen"/>ſily peeled off in flakes about four inches ſquare: ſeveral of theſe pieces, with a tranſparent Stone like Cryſtal that cut Glaſs, and a white Marchaſite that I purchaſed of the Indi<g ref="char:EOLhyphen"/>ans, I preſented to Sir <hi>William Berkley</hi> Governour of <hi>Virginia.</hi>
+               </p>
+               <pb n="8" facs="tcp:61341:10"/>
+               <p>The fourteenth of <hi>March,</hi> from the top of an eminent hill, I firſt deſcried the <hi>Apalataean</hi> Mountains, bearing due Weſt to the place I ſtood upon: their diſtance from me was ſo great, that I could hardly diſcern whether they were Mountains or Clouds, until my Indian fellow travellers pro<g ref="char:EOLhyphen"/>ſtrating themſelves in Adoration, howled out after a bar<g ref="char:EOLhyphen"/>barous manner, <hi>Okée poeze,</hi> i. e. <hi>God is nigh.</hi>
+               </p>
+               <p>The fifteenth of <hi>March,</hi> not far from this hill, paſſing o<g ref="char:EOLhyphen"/>ver the South-branch of <hi>Rappahanock</hi>-river, I was almoſt ſwallowed in a Quickſand. Great herds of Red and Fallow Deer I daily ſaw feeding; and on the hill-ſides, Bears craſh<g ref="char:EOLhyphen"/>ing Maſt like Swine. Small Leopards I have ſeen in the Woods, but never any Lions, though their skins are much worn by the Indians. The Wolves in theſe parts are ſo ra<g ref="char:EOLhyphen"/>venous, that I often in the night feared my horſe would be devoured by them, they would gather up and howl ſo cloſe round about hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> though Tether'd to the same tree at whoſe foot I my <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and the Indians lay: but the Fires which we made, I ſuppoſe, ſcared them from worrying us all. Beaver and Otter I met with at every River that I paſ<g ref="char:EOLhyphen"/>ſed; and the Woods are full of Grey Foxes.</p>
+               <p>Thus I travelled all the ſixteenth; and on the ſeventeenth of <hi>March</hi> I reached the <hi>Apalataei.</hi> The Air here is very thick and chill; and the waters iſſuing from the Mountain<g ref="char:EOLhyphen"/>ſides, of a Blue colour, and Allumiſh taſte.</p>
+               <p>The eighteenth of <hi>March,</hi> after I had in vain aſſayed to ride up, I alighted, and left my horſe with one of the In<g ref="char:EOLhyphen"/>dians, whilſt with the other two I climbed up the Rocks, which were ſo incumbred with buſhes and brambles, that the aſcent proved very difficult: beſides, the firſt precipice was ſo ſteep, that if I lookt down, I was immediately taken with a ſwimming in my head; though afterwards the way was more eaſie. The height of this Mountain was very extraordinary: for notwithſtanding I ſet out with the firſt appearance of light, it was late in the evening before I gain<g ref="char:EOLhyphen"/>ed the top, from whence the next morning I had a beautiful
+<pb n="9" facs="tcp:61341:10"/>proſpect of the <hi>Atlantick</hi>-Ocean waſhing the <hi>Virginian</hi>-ſhore; but to the North and Weſt, my ſight was ſuddenly boun<g ref="char:EOLhyphen"/>ded by Mountains higher than that I ſtood upon. Here did I wander in Snow, for the moſt part, till the Four and twentieth day of <hi>March,</hi> hoping to finde ſome paſſage through the Mountains; but the coldneſs of the Air and Earth together, ſeizing my Hands and Feet with numbneſs, put me to a <hi>ne plus ultra;</hi> and therefore having found my <hi>Indian</hi> at the foot of the Mountain with my Horſe, I re<g ref="char:EOLhyphen"/>turned back by the ſame way that I went.</p>
+            </div>
+            <div n="second expedition" type="part">
+               <head>The Second EXPEDITION, From the Falls of <hi>Powhatan,</hi> aliàs <hi>James-River,</hi> in <hi>Virginia,</hi> to <hi>Mahock</hi> in the <hi>Apalataean</hi> Mountains.</head>
+               <p>THe twentieth of <hi>May</hi> 1670, one Major <hi>Harris</hi> and my ſelf, with twenty <hi>Chriſtian</hi> Horſe, and five <hi>Indians,</hi> marched from the Falls of <hi>James-River,</hi> in <hi>Virginia,</hi> to<g ref="char:EOLhyphen"/>wards the <hi>Monakins;</hi> and on the Two and twentieth were welcomed by them with Volleys of Shot. Near this Village we obſerved a Pyramid of ſtones piled up together, which their Prieſts told us, was the Number of an <hi>Indian</hi> Colony drawn out by Lot from a Neighbour-Countrey o<g ref="char:EOLhyphen"/>ver-peopled, and led hither by one <hi>Monack,</hi> from whom they take the Name of <hi>Monakin.</hi> Here enquiring the way to the Mountains, an ancient Man deſcribed with a ſtaffe two paths on the ground; one pointing to the <hi>Mahocks,</hi> and the other to the <hi>Nahyſſans;</hi> but my <hi>Engliſh</hi> Compani<g ref="char:EOLhyphen"/>ons ſlighting the <hi>Indians</hi> direction, ſhaped their courſe by the Compaſs due Weſt, and therefore it fell out with us, as
+<pb n="10" facs="tcp:61341:11"/>it does with thoſe Land-Crabs, that crawling backwards in a direct line, avoid not the Trees that ſtand in their way, but climbing over their very tops, come down again on the other ſide, and ſo after a days labour gain not above two foot of ground. Thus we obſtinately purſuing a due Weſt courſe, rode over ſteep and craggy Cliffs, which beat our Horſes quite off the hoof. In theſe Mountains we wan<g ref="char:EOLhyphen"/>dred from the Twenty fifth of <hi>May</hi> till the Third of <hi>June,</hi> finding very little ſuſtenance for Man or Horſe; for theſe places are deſtitute both of Grain and Herbage.</p>
+               <p>The third of <hi>June</hi> we came to the South-branch of <hi>James</hi>-River, which Major <hi>Harris</hi> obſerving to run North<g ref="char:EOLhyphen"/>ward, vainly imagined to be an Arm of the Lake of <hi>Ca<g ref="char:EOLhyphen"/>nada;</hi> and was ſo tranſported with this Fancy, that he would have raiſed a Pillar to the Diſcovery, if the fear of the <hi>Mahock Indian,</hi> and want of food, had permitted him to ſtay. Here I moved to croſs the Rive and march on; but the reſt of the Company were ſo weary of the enterprize, that crying out, <hi>One and All,</hi> they had offered violence to me, had I not been provided with a private Commiſſion from the Governour of <hi>Virginia</hi> to proceed, though the reſt of the company ſhould abandon me; the ſight of which laid their fury.</p>
+               <p>The leſſer Hills, or <hi>Akontſhuck,</hi> are here unpaſſable, be<g ref="char:EOLhyphen"/>ing both ſteep and craggy; the Rocks ſeemed to me at a di<g ref="char:EOLhyphen"/>ſtance to reſemble Eggs ſet up an end.</p>
+               <p>
+                  <hi>James</hi>-River is here as broad as it is about an hundred mile lower at <hi>Monakin;</hi> the paſſage over is very dangerous, by reaſon of the rapid Torrents made by Rocks and Shelves forcing the water into narrow Chanels. From an obſerva<g ref="char:EOLhyphen"/>tion which we made of ſtraws and rotten chuncks hanging in the boughs of Trees on the Bank, and two and twenty foot above water, we argued that the melted Snow falling from the Mountains ſwelled the River to that height, the Flood carrying down that rubbiſh which, upon the abate<g ref="char:EOLhyphen"/>ment of the Inundation, remained in the Trees.</p>
+               <pb n="11" facs="tcp:61341:11"/>
+               <p>The Air in theſe parts was ſo moiſt, that all our Biſcuit became mouldy and unfit to be eaten, ſo that ſome nicer ſtomachs, who at our ſetting out laughed at my proviſion of <hi>Indian</hi>-meal parched, would gladly now have ſhared with me: but I being determined to go upon further Diſcoveries, refuſed to part with any of that which was to be my moſt neceſſary ſuſtenance.</p>
+               <div type="section">
+                  <head>The Continuation of the <hi>Second Expedition</hi> from <hi>Mahock,</hi> Southward, into the Pro<g ref="char:EOLhyphen"/>vince of <hi>Carolina.</hi>
+                  </head>
+                  <p>THe fifth of <hi>June,</hi> my Company and I parted good friends, they back again, and I with one <hi>Saſqueſa<g ref="char:EOLhyphen"/>hanough-Indian,</hi> named <hi>Jackzetavon,</hi> only, in purſuit of my firſt Enterprize, changing my courſe from Weſt to South<g ref="char:EOLhyphen"/>weſt &amp; by South, to avoid the Mountains. Major <hi>Harris</hi> at parting gave me a Gun, believing me a loſt man, and gi<g ref="char:EOLhyphen"/>ven up as a prey to <hi>Indians</hi> or ſavage Beaſts; which made him the bolder in <hi>Virginia</hi> to report ſtrange things in his own praiſe and my diſparagement, preſuming I would ne<g ref="char:EOLhyphen"/>ver appear to diſprove him. This, I ſuppoſe, and no other, was the cauſe that he did with ſo much induſtry procure me diſcredit and odium; but I have loſt nothing by it, but what I never ſtudied to gain, which is Popular applauſe.</p>
+                  <p>From the fifth, which was <hi>Sunday,</hi> until the ninth of <hi>June,</hi> I travelled through difficult Ways, without ſeeing any Town or <hi>Indian;</hi> and then I arrived at <hi>Sapon,</hi> a Village of the <hi>Nahyſſans,</hi> about an hundred miles diſtant from <hi>Mahock,</hi> ſcituate upon a branch of <hi>Shawan,</hi> aliàs <hi>Rorenock</hi>-River; and though I had juſt cauſe to fear theſe <hi>Indians,</hi> becauſe they had been in continual Hoſtility with the <hi>Chriſtians</hi> for
+<pb n="12" facs="tcp:61341:12"/>ten years before; yet preſuming that the Truck which I carried with me would procure my welcome, I adventured to put my ſelf into their power, having heard that they never offer any injury to a few perſons from whom they ap<g ref="char:EOLhyphen"/>prehend no danger: nevertheleſs, they examined me ſtrict<g ref="char:EOLhyphen"/>ly whence I came, whither I went, and what my buſineſs was. But after I had beſtowed ſome trifles of Glaſs and Metal amongſt them, they were ſatisfied with reaſonable anſwers, and I received with all imaginable demonſtrations of kindneſs, as offering of Sacrifice, a complement ſhewed only to ſuch as they deſign particularly to honour: but they went further, and conſulted their Godds whether they ſhould not admit me into their Nation and Councils, and oblige me to ſtay amongſt them by a Marriage with the Kings or ſome of their great Mens Daughters. But I, though with much a-do, waved their courteſie, and got my Paſtport, having given my word to return to them within ſix months.</p>
+                  <p>
+                     <hi>Sapon</hi> is within the limits of the Province of <hi>Carolina,</hi> and as you may perceive by the Figure, has all the attributes requiſite to a pleaſant and advantagious Seat; for though it ſtands high, and upon a dry land, it enjoyes the benefit of a ſtately River, and a rich Soyl, capable of producing many Commodities, which may hereafter render the Trade of it conſiderable.</p>
+                  <p>Not far diſtant from hence, as I underſtood from the <hi>Nahyſſan</hi> Indians, is their Kings Reſidence, called <hi>Pintahae,</hi> upon the ſame River, and happy in the ſame advantages both for pleaſure and profit: which my curioſity would have led me to ſee, were I not bound, both by Oath and Commiſſion, to a direct purſuance of my intended purpoſe of diſcovering a paſſage to the further ſide of the Moun<g ref="char:EOLhyphen"/>tains.</p>
+                  <p>This Nation is governed by an abſolute Monarch; the People of a high ſtature, warlike and rich. I ſaw great ſtore
+<pb n="13" facs="tcp:61341:12"/>of Pearl unbored in their little Temples, or Oratories, which they had won amongſt other ſpoyls from the Indians of <hi>Florida,</hi> and hold in as great eſteem as we do.</p>
+                  <p>From hence, by the Indians inſtructions, I directed my courſe to <hi>Akenatzy,</hi> and Iſland bearing South &amp; by Weſt, and about fifty miles diſtant, upon a branch of the ſame Ri<g ref="char:EOLhyphen"/>ver, from <hi>Sapon.</hi> The Countrey here, though high, is le<g ref="char:EOLhyphen"/>vel, and for the moſt part a rich ſoyl, as I judged by the growth of the Trees; yet where it is inhabited by Indians, it lies open in ſpacious Plains, and is bleſſed with a very healthful Air, as appears by the age and vigour of the peo<g ref="char:EOLhyphen"/>ple; and though I travelled in the month of <hi>June,</hi> the heat of the weather hindred me not from Riding at all hours without any great annoyance from the Sun. By eaſie jour<g ref="char:EOLhyphen"/>neys I landed at <hi>Akenatzy</hi> upon the twelfth of <hi>June.</hi> The current of the River is here ſo ſtrong, that my Horſe had much difficulty to reſiſt it; and I expected every ſtep to be carried away with the ſtream.</p>
+                  <p>This Iſland, though ſmall, maintains many inhabitants, who are fix'd here in great ſecurity, being naturally fortified with Faſtneſſes of Mountains, and Water of every ſide. Up<g ref="char:EOLhyphen"/>on the North-ſhore they yearly reap great crops of Corn, of which they always have a twelv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-months Proviſion afore<g ref="char:EOLhyphen"/>hand, againſt an Invaſion from their powerful Neighbours. Their Government is under two Kings, one preſiding in Arms, the other in Hunting and Husbandry. They hold all things, except their Wives, in common; and their cu<g ref="char:EOLhyphen"/>ſtome in eating is, that every man in his turn feaſts all the reſt; and he that makes the entertainment, is ſeated betwixt the two Kings; where having highly commended his own chear, they carve and diſtribute it amongſt the gueſts.</p>
+                  <p>At my arrival here, I met four ſtranger-Indians, whoſe Bodies were painted in various colours with figures of Ani<g ref="char:EOLhyphen"/>mals whoſe likeneſs I had never ſeen: and by ſome diſ<g ref="char:EOLhyphen"/>courſe and ſignes which paſſed between us, I gathered that they were the only ſurvivours of fifty, who ſet out together
+<pb n="14" facs="tcp:61341:13"/>in company from ſome great Iſland, as I conjecture, to the Northweſt; for I underſtood that they croſſed a great Wa<g ref="char:EOLhyphen"/>ter, in which moſt of their party periſhed by tempeſt, the reſt dying in the Mariſhes and Mountains by famine and hard weather, after a two-months travel by Land and Wa<g ref="char:EOLhyphen"/>ter in queſt of this Iſland of <hi>Akenatzy.</hi>
+                  </p>
+                  <p>The moſt reaſonable conjecture that I can frame out of this Relation, is, that theſe Indians might come from the Iſland of new <hi>Albion</hi> or <hi>California,</hi> from whence we may imagine ſome great arm of the Indian Ocean or Bay ſtretches into the Continent towards the <hi>Apalataean</hi> Mountains in the nature of a mid-land Sea, in which many of theſe Indians might have periſhed. To confirm my opinion in this point, I have heard ſeveral Indians teſtifie, that the Nation of <hi>Ricko<g ref="char:EOLhyphen"/>hockans,</hi> who dwell not far to the Weſtward of the <hi>Apala<g ref="char:EOLhyphen"/>taean</hi> Mountains, are ſeated upon a Land, as they term it, of great Waves; by which I ſuppoſe they mean the Sea-ſhore.</p>
+                  <p>The next day after my arrival at <hi>Akenatzy,</hi> a <hi>Rickohockan</hi> Ambaſſadour, attended by five Indians, whoſe faces were co<g ref="char:EOLhyphen"/>loured with <hi>Auripigmentum</hi> (in which Mineral theſe parts do much abound) was received, and that night invited to a Ball of their faſhion; but in the height of their mirth and dancing, by a ſmoke contrived for that purpoſe, the Room was ſuddenly darkned, and for what cauſe I know not, the <hi>Rickohockan</hi> and his Retinue barbarouſly murthered. This ſtruck me with ſuch an affrightment, that the very next day, without taking my leave of them, I ſlunk away with my Indian Companion. Though the deſire of inform<g ref="char:EOLhyphen"/>ing my ſelf further concerning ſome Minerals, as <hi>Auripig<g ref="char:EOLhyphen"/>mentum, &amp;c.</hi> which I there took ſpecial notice of, would have perſwaded me to ſtay longer amongſt them, had not the bloody example of their treachery to the <hi>Rickohockans</hi> frighted me away.</p>
+                  <p>The fourteenth of <hi>June,</hi> purſuing a South-ſouthweſt courſe, ſometimes by a beaten path, and ſometimes over hills and
+<pb n="15" facs="tcp:61341:13"/>rocks, I was forc'd to take up my quarters in the Woods: for though the <hi>Oenock</hi>-Indians, whom I then ſought, were not in a direct line above thirty odde miles diſtant from <hi>A<g ref="char:EOLhyphen"/>kenatzy,</hi> yet the Ways were ſuch, and obliged me to go ſo far about, that I reached not <hi>Oenock</hi> until the ſixteenth. The Country here, by the induſtry of theſe Indians, is very open, and clear of wood. Their Town is built round a field, where in their Sports they exerciſe with ſo much la<g ref="char:EOLhyphen"/>bour and violence, and in ſo great numbers, that I have ſeen the ground wet with the ſweat that dropped from their bo<g ref="char:EOLhyphen"/>dies: their chief Recreation is Slinging of ſtones. They are of mean ſtature and courage, covetous and thieviſh, in<g ref="char:EOLhyphen"/>duſtrious to earn a peny; and therefore hire themſelves out to their neighbours, who employ them as Carryers or Por<g ref="char:EOLhyphen"/>ters. They plant abundance of Grain, reap three Crops in a Summer, and out of their Granary ſupply all the adja<g ref="char:EOLhyphen"/>cent parts. Theſe and the Mountain-Indians build not their houſes of Bark, but of Watling and Plaiſter. In Sum<g ref="char:EOLhyphen"/>mer, the heat of the weather makes them chuſe to lie abroad in the night under thin arbours of wilde Palm. Some hou<g ref="char:EOLhyphen"/>ſes they have of Reed and Bark; they build them generally round: to each houſe belongs a little hovel made like an oven, where they lay up their Corn and Maſt, and keep it dry. They parch their Nuts and Acorns over the fire, to take away their rank Oylineſs; which afterwards preſſed, yeeld a milky liquor, and the Acorns an Amber-colour'd Oyl. In theſe, mingled together, they dip their Cakes at great Entertainments, and ſo ſerve them up to their gueſts as an extraordinary dainty. Their Government is Demo<g ref="char:EOLhyphen"/>cratick; and the Sentences of their old men are received as Laws, or rather Oracles, by them.</p>
+                  <p>Fourteen miles Weſt-Southweſt of the <hi>Oenocks,</hi> dwell the <hi>Shackory</hi>-Indians, upon a rich Soyl, and yet-abounding in Antimony, of which they ſhewed me conſiderable quanti<g ref="char:EOLhyphen"/>ties. Finding them agree with the <hi>Oenocks</hi> in Cuſtoms and Manners, I made no ſtay here, but paſſing thorow their
+<pb n="16" facs="tcp:61341:14"/>Town, I travelled till the nineteenth of <hi>June;</hi> and then after a two days troubleſome Journey thorow Thickets and Mariſh grounds, I arrived at <hi>Watary</hi> above fourty miles diſtant, and bearing Weſt-Southweſt to <hi>Shakor.</hi> This Nati<g ref="char:EOLhyphen"/>on differs in Government from all the other Indians of theſe parts: for they are Slaves, rather then Subjects to their King. Their preſent Monarch is a grave man, and courteous to ſtrangers: yet I could not without horrour behold his bar<g ref="char:EOLhyphen"/>barous Superſtition, in hiring three youths, and ſending them forth to kill as many young women of their Enemies as they could light on, to ſerve his ſon, then newly dead, in the other world, as he vainly fancyed. Theſe youths during my ſtay returned with skins torn off the heads and faces of three young girls, which they preſented to his Majeſtie, and were by him gratefully received.</p>
+                  <p>I departed from <hi>Watary</hi> the one and twentieth of <hi>June;</hi> and keeping a Weſt-courſe for near thirty miles, I came to <hi>Sara:</hi> here I found the ways more level and eaſie. <hi>Sara</hi> is not far diſtant from the Mountains, which here loſe their height, and change their courſe and name: for they run due Weſt, and receive from the Spaniards the name of <hi>Suala.</hi> From theſe Mountains or Hills the Indians draw great quantities of <hi>Cinabar,</hi> with which beaten to powder they colour their faces: this Mineral is of a deeper Purple then <hi>Vermilion,</hi> and is the ſame which is in ſo much eſteem amongſt Phyſitians, being the firſt element of Quickſilver.</p>
+                  <p>I did likewiſe, to my no ſmall admiration, find hard cakes of white Salt amongſt them: but whether they were made of Sea-water, or taken out of Salt-pits, I know not: but am apt to believe the later, becauſe the Sea is ſo remote from them. Many other rich Commodities and Minerals there are undoubtedly in theſe parts, which if poſſeſſed by an in<g ref="char:EOLhyphen"/>genious and induſtrious people, would be improved to vaſt advantages by Trade. But having tied my ſelf up to things onely that I have ſeen in my Travels, I will deliver no Conjectures.</p>
+                  <pb n="17" facs="tcp:61341:14"/>
+                  <q>Lingua ſile non eſt ultra narrabile quidquam.</q>
+                  <p>Theſe Indians are ſo indiſcreetly fond of their children, that they will not chaſtiſe them for any miſchief or inſo<g ref="char:EOLhyphen"/>lence. A little Boy had ſhot an Arrow thorow my body, had I not reconciled him to me with gifts: and all this an<g ref="char:EOLhyphen"/>ger was, becauſe I ſpurred my horſe out of another Arrows way which he directed at him. This cauſe ſuch a mutiny amongſt the Youth of the Town, that the Seniors taking my horſe and ſelf into protection, had much ado (and that by intreaties and prayers, not commands) to appeaſe them.</p>
+                  <p>From <hi>Sara</hi> I kept a South-Southweſt courſe until the five and twentieth of <hi>June,</hi> and then I reached <hi>Wiſacky.</hi> This three-days march was more troubleſome to me then all my travels beſides: for the direct way which I took from <hi>Sara</hi> to <hi>Wiſacky,</hi> is over a continued Mariſh over-grown with Reeds, from whoſe roots ſprung knotty ſtumps as hard and ſharp as Flint. I was forc'd to lead my horſe moſt part of the way, and wonder that he was not either plunged in the Bogs, or lamed by thoſe rugged knots.</p>
+                  <p>This Nation is ſubject to a neighbour-King reſiding up<g ref="char:EOLhyphen"/>on the bank of a great Lake called <hi>
+                        <g ref="char:V">Ʋ</g>ſhery,</hi> invironed of all ſides with Mountains, and <hi>Wiſacky</hi> Mariſh; and therefore I will detain the Reader no longer with the diſcourſe of them, becauſe I comprehend them in that of <hi>
+                        <g ref="char:V">Ʋ</g>ſhery.</hi>
+                  </p>
+                  <p>The ſix and twentieth of <hi>June,</hi> having croſſed a freſh River which runs into the Lake of <hi>
+                        <g ref="char:V">Ʋ</g>ſhery,</hi> I came to the Town, which was more populous then any I had ſeen be<g ref="char:EOLhyphen"/>fore in my March. The King dwells ſome three miles from it, and therefore I had no opportunity of ſeeing him the two nights which I ſtayed there. This Prince, though his Dominions are large and populous, is in continual fear of the <hi>Ouſtack</hi>-Indians ſeated on the oppoſite ſide of the Lake; a people ſo addicted to Arms, that even their wo<g ref="char:EOLhyphen"/>men come into the field, and ſhoot Arrows over their huſ<g ref="char:EOLhyphen"/>bands
+<pb n="18" facs="tcp:61341:15"/>ſhoulders, who ſhield them with Leathern Targets. The men it ſeems ſhould fight with Silver-Hatchets: for one of the <hi>
+                        <g ref="char:V">Ʋ</g>ſheryes</hi> told me they were of the ſame metal with the Pomel of my Sword. They are a cruel genera<g ref="char:EOLhyphen"/>tion, and prey upon people, whom they either ſteal, or force away from the <hi>
+                        <g ref="char:V">Ʋ</g>ſheryes</hi> is <hi>Periago's,</hi> to ſacrifice to their Idols. The <hi>
+                        <g ref="char:V">Ʋ</g>ſhery</hi>-women delight much in feather-orna<g ref="char:EOLhyphen"/>ments, of which they have great variety; but Peacocks in moſt eſteem, becauſe rare in thoſe parts. They are reaſona<g ref="char:EOLhyphen"/>bly handſome, and have more of civility in their carriage then I obſerved in the other Nations with whom I conver<g ref="char:EOLhyphen"/>ſed; which is the reaſon that the men are more effeminate and lazie.</p>
+                  <p>Theſe miſerable wretches are ſtrangely infatuated with il<g ref="char:EOLhyphen"/>luſions of the devil: it cauſed no ſmall horrour in me, to ſee one of them wrythe his neck all on one ſide, foam at the mouth, ſtand bare-foot upon burning coals for near an hour, and then recovering his ſenſes, leap out of the fire without hurt, or ſigne of any. This I was an eye-witneſs of.</p>
+                  <p>The water of <hi>
+                        <g ref="char:V">Ʋ</g>ſhery</hi>-lake ſeemed to my taſte a little brackiſh; which I rather impute to ſome Mineral-waters which flow into it, then to any ſaltneſs it can take from the Sea, which we may reaſonably ſuppoſe is a great way from it. Many pleaſant Rivulets fall into it, and it is ſtored with great plenty of excellent fiſh. I judged it to be about ten leagues broad: for were not the other ſhore very high, it could not be diſcerned from <hi>
+                        <g ref="char:V">Ʋ</g>ſhery.</hi> How far this Lake tends Weſterly, or where it ends, I could neither learn or gueſs.</p>
+                  <p>Here I made a days ſtay, to inform my ſelf further in theſe Countries; and underſtood both from the <hi>
+                        <g ref="char:V">Ʋ</g>ſheries,</hi> and ſome <hi>Sara</hi>-Indians that came to trade with them, that two-days journey and a half from hence to the Southweſt, a powerful Nation of Bearded men were ſeated, which I ſuppoſe to be the Spaniards, becauſe the Indians never have any; it being an univerſal cuſtom amongſt them, to prevent
+<pb n="19" facs="tcp:61341:15"/>their growth, by plucking the young hair out by the roots. Weſtward lies a Government inhoſpitable to ſtrangers; and to the North, over the <hi>Suala</hi>-mountains, lay the <hi>Rickohoc<g ref="char:EOLhyphen"/>kans.</hi> I thought it not ſafe to venture my ſelf amongſt the Spaniards, leſt taking me for a Spy, the would either make me away, or condemn me to a perpetual Slavery in their Mines. Therefore not thinking fit to proceed further, the eight and twentieth of <hi>June</hi> I faced about, and looked homewards.</p>
+                  <p>To avoid <hi>Wiſacky</hi>-Mariſh, I ſhaped my courſe Northeaſt; and after three days travel over hilly ways, where I met with no path or road, I fell into a barren Sandy deſert, where I ſuffered miſerably for want of water; the heat of the Summer having drunk all the Springs dry, and left no ſigne of any, but the Gravelly chanels in which they run: ſo that if now and then I had not found a ſtanding Pool, which provident Nature ſet round with ſhady Oaks, to de<g ref="char:EOLhyphen"/>fend it from the ardour of the Sun, my Indian companion, horſe and ſelf had certainly periſhed with thirſt. In this diſtreſs we travelled till the twelfth of <hi>July,</hi> and then found the head of a River, which afterwards proved <hi>Eruco;</hi> in which we received not onely the comfort of a neceſſary and ſeaſonable refreſhment, but likewiſe the hopes of coming into a Country again where we might finde Game for food at leaſt, if not diſcover ſome new Nation or People. Nor did our hopes fail us: for after we had croſſed the River twice, we were led by it upon the fourteenth of <hi>July</hi> to the Town of <hi>Katearas,</hi> a place of great Indian Trade and Com<g ref="char:EOLhyphen"/>merce, and chief Seat of the haughty Emperour of the <hi>Zoskiroro's,</hi> called <hi>Kackuſara</hi> vulgarly <hi>K<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>k<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>.</hi> His grim Majeſtie, upon <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y firſt appearance, demanded my Gun and Shot; which I willingly parted with, to ranſom my ſelf out of his clutches<g ref="char:punc">▪</g> for he was the moſt proud imperious Barbarian that I met with in all my Marches. The people here at this <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſeemed prepared for ſome extraordinary
+<pb n="20" facs="tcp:61341:16"/>Solemnity: for the men and the women of better ſort had decked themſelves very fine with pieces of bright Copper in their hair and ears, and about their arms and neck, which upon Feſtival occaſions they uſe as an extraordinary brave<g ref="char:EOLhyphen"/>ry: by which it ſhould ſeem this Country is not without rich Mines of Copper. But I durſt not ſtay to inform my ſelf further in it, being jealous of ſome ſudden miſchief to<g ref="char:EOLhyphen"/>wards me from <hi>Kaskous,</hi> his nature being bloudy, and pro<g ref="char:EOLhyphen"/>voked upon any ſlight occaſion.</p>
+                  <p>Therefore leaving <hi>Katearas,</hi> I travelled through the Woods until the ſixteenth, upon which I came to <hi>Ka<g ref="char:EOLhyphen"/>witziokan,</hi> an Indian town upon a branch of <hi>Rorenoke</hi>-ri<g ref="char:EOLhyphen"/>ver, which here I paſſed over, continuing my journey to <hi>Menchoerinck;</hi> and on the ſeventeenth departing from thence, I lay all night in the Woods, and the next morning betimes going by <hi>Natoway,</hi> I reached that evening <hi>Apama<g ref="char:EOLhyphen"/>tuck</hi> in <hi>Virginia,</hi> where I was not a little overjoyed to ſee Chriſtian faces again.</p>
+               </div>
+            </div>
+            <div n="third expedition" type="part">
+               <head>The third and laſt EXPEDITION, From the Falls of <hi>Rappahanock</hi>-River in <hi>Virginia,</hi> (due Weſt) to the top of the <hi>Apalataean</hi> Mountains.</head>
+               <p>ON the twentieth of <hi>Auguſt</hi> 1670, Col. <hi>Catlet</hi> of <hi>Virgi<g ref="char:EOLhyphen"/>nia</hi> and my ſelf, with nine Engliſh Horſe, and five In<g ref="char:EOLhyphen"/>dians on foot, departed from the houſe of one <hi>Robert Tali<g ref="char:EOLhyphen"/>fer,</hi> and that night reached the falls of <hi>Rappahanock</hi>-river, in Indian <hi>Mantepeuck.</hi>
+               </p>
+               <p>The next day we paſſed it over where it divides into two
+<pb n="21" facs="tcp:61341:16"/>branches North and South, keeping the main branch North of us.</p>
+               <p>The three and twentieth we found it ſo ſhallow, that it onely wet our horſes hoofs.</p>
+               <p>The four and twentieth we travelled thorow the <hi>Savanae</hi> amongſt vaſt herds of Red and Fallow Deer which ſtood ga<g ref="char:EOLhyphen"/>zing at us; and a little after, we came to the Promontories or Spurs of the <hi>Apalataean</hi>-mountains.</p>
+               <p>Theſe <hi>Savanae</hi> are low grounds at the foot of the <hi>Apa<g ref="char:EOLhyphen"/>lataeans,</hi> which all the Winter, Spring, and part of the Summer, lie under ſnow or water, when the ſnow is diſſol<g ref="char:EOLhyphen"/>ved, which falls down from the Mountains commonly a<g ref="char:EOLhyphen"/>bout the beginning of <hi>June;</hi> and then their verdure is wonderful pleaſant to the eye, eſpecially of ſuch as having travelled through the ſhade of the vaſt Foreſt, come out of a melancholy darkneſs of a ſudden, into a clear and open skie. To heighten the beauty of theſe parts, the firſt Springs of moſt of thoſe great Rivers which run into the <hi>Atlantick</hi> Ocean, or <hi>Cheſeapeack</hi> Bay, do here break out, and in various branches interlace the flowry Meads, whoſe luxu<g ref="char:EOLhyphen"/>rious herbage invites numerous herds of Red Deer (for their unuſual largeneſs improperly termed Elks by ignorant peo<g ref="char:EOLhyphen"/>ple) to feed. The right Elk, though very common in <hi>New Scotland, Canada,</hi> and thoſe Northern parts, is never ſeen on this ſide of the Continent: for that which the <hi>Virginians</hi> call Elks, does not at all differ from the Red Deer of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> but in his dimenſions, which are far greater: but yet the Elk in bigneſs does as far exceed them: their heads, or horns, are not very different; but the neck of the Elk is ſo ſhort, that it hardly ſeparates the head from the ſhoulders; which is the reaſon that they cannot feed upon level ground but by falling on their knees, though their heads be a yard<g ref="char:EOLhyphen"/>long: therefore they commonly either brouſe upon trees, or ſtanding up to the belly in ponds or rivers feed upon the banks: their Cingles or tails are hardly three inches long. I have been told by a <hi>New-England</hi>-Gentleman, that the
+<pb n="22" facs="tcp:61341:17"/>lips and noſtrils of this creature is the moſt delicious meat he ever taſted. As for the Red Deer we here treat of, I can<g ref="char:EOLhyphen"/>not difference the taſte of their fleſh from thoſe in <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+               </p>
+               <p>The ſix and twentieth of <hi>Auguſt</hi> we came to the Moun<g ref="char:EOLhyphen"/>tains, where finding no horſe-way up, we alighted, and left our horſes with two or three Indians below, whilſt we went up afoot. The aſcent was ſo ſteep, the cold ſo intenſe, and we ſo tired, that having with much ado gained the top of one of the higheſt, we drank the Kings Health in Brandy, gave the Mountain His name, and agreed to return back again, having no encouragement from that proſpect to pro<g ref="char:EOLhyphen"/>ceed to a further diſcovery; ſince from hence we ſaw ano<g ref="char:EOLhyphen"/>ther Mountain, bearing North and by Weſt to us, of a pro<g ref="char:EOLhyphen"/>digious height: for according to an obſervation of the di<g ref="char:EOLhyphen"/>ſtance taken by Col. <hi>Catlet,</hi> it could not be leſs then fifty leagues from the place we ſtood upon.</p>
+               <p>Here was I ſtung in my ſleep by a Mountain-ſpider; and had not an Indian ſuckt out the poyſon, I had died: for re<g ref="char:EOLhyphen"/>ceiving the hurt at the tip of one of my fingers, the venome ſhot up immediately into my ſhoulder, and ſo inflamed my ſide, that it is not poſſible to expreſs my torment. The means uſed by my Phyſician, was firſt a ſmall doſe of Snake<g ref="char:EOLhyphen"/>root-powder, which I took in a little water; and then ma<g ref="char:EOLhyphen"/>king a kinde of Plaiſter of the ſame, applied it neer to the part affected: when he had done ſo, he ſwallowed ſome by way of Antidote himſelf, and ſuckt my fingers end ſo vio<g ref="char:EOLhyphen"/>lently, that I felt the venome retire back from my ſide into my ſhoulder, and from thence down my arm: having thus ſucked half a ſcore times, and ſpit as often, I was eaſed of all my pain, and perfectly recovered. I thought I had been bit by a Rattle-ſnake, for I ſaw not what hurt me: but the Indian found by the wound, and the effects of it, that it was given by a Spider, one of which he ſhewed me the next day: it is not unlike our great blue Spider, onely it is ſome<g ref="char:EOLhyphen"/>what longer. I ſuppoſe the nature of his poyſon to be much like that of the <hi>Tarantula.</hi>
+               </p>
+               <pb n="23" facs="tcp:61341:17"/>
+               <p>I being thus beyond my hopes and expectation reſtored to my ſelf, we unanimouſly agreed to return back, ſeeing no poſſibility of paſſing through the Mountains: and find<g ref="char:EOLhyphen"/>ing our Indians with our horſes in the place where we left them, we rode homewards without making any further Diſcovery.</p>
+            </div>
+            <div type="part">
+               <head>CONjECTURES of the Land beyond the <hi>Apalataean</hi> Mountains.</head>
+               <p>THey are certainly in a great errour, who imagine that the Continent of North-<hi>America</hi> is but eight or ten days journey over from the <hi>Atlantick</hi> to the <hi>Indian</hi> Ocean: which all reaſonable men muſt acknowledge, if they conſi<g ref="char:EOLhyphen"/>der that Sir <hi>Francis Drake</hi> kept a Weſt-Northweſt courſe from <hi>Cape Mendocino</hi> to <hi>California.</hi> Nevertheleſs, by what I gathered from the ſtranger Indians at <hi>Akenatzy</hi> of their Voyage by Sea to the very Mountains from a far diſtant Northweſt Country, I am brought over to their opinion who think that the Indian Ocean does ſtretch an Arm or Bay from <hi>California</hi> into the Continent as far as the <hi>Apala<g ref="char:EOLhyphen"/>taean</hi> Mountains, anſwerable to the Gulfs of <hi>Florida</hi> and <hi>Mexico</hi> on this ſide. Yet I am far from believing with ſome, that ſuch great and Navigable Rivers are to be found on the other ſide the <hi>Apalataeans</hi> falling into the Indian Ocean, as thoſe which run from them to the Eaſtward. My firſt reaſon is derived from the knowledge and experience we already have of South-<hi>America,</hi> whoſe <hi>Andes</hi> ſend the greateſt Rivers in the world (as the <hi>Amazones</hi> and <hi>Rio de la Plata,</hi> &amp;c.) into the <hi>Atlantick,</hi> but none at all into the <hi>Pacifique</hi> Sea. Another Argument is, that all our Water<g ref="char:EOLhyphen"/>fowl which delight in Lakes and Rivers, as Swans, Geeſe,
+<pb n="24" facs="tcp:61341:18"/>Ducks, <hi>&amp;c.</hi> come over the Mountains from the Lake of <hi>Canada,</hi> when it is frozen over every Winter, to our freſh Rivers; which they would never do, could they finde any on the other ſide of the <hi>Apalataeans.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>INSTRUCTIONS to ſuch as ſhall march upon Diſcoveries into the North-<hi>American</hi> Continent.</head>
+               <p>TWo breaches there are in the <hi>Apalataean</hi> Mountains, o<g ref="char:EOLhyphen"/>pening a paſſage into the Weſtern parts of the Conti<g ref="char:EOLhyphen"/>nent. One, as I am informed by Indians, at a place called <hi>Zynodoa,</hi> to the Norward; the other at <hi>Sara,</hi> where I have been my ſelf: but the way thither being thorow a vaſt Fo<g ref="char:EOLhyphen"/>reſt, where you ſeldom fall into any Road or Path, you muſt ſhape your courſe by a Compaſs; though ſome, for want of one, have taken their direction from the North-ſide of the trees, which is diſtinguiſhed from the reſt by quantities of thick Moſs growing there. You will no meet with many hinderances on horſeback in your paſſage to the Mountains, but where your courſe is interrupted by branches of the great Rivers, which in many places are not Fordable; and therefore if you be unprovided of means or ſtrength to make a Bridge by felling trees acroſs, you may be forced to go a great way about: in this reſpect company is neceſſary, but in others ſo inconvenient, that I would not adviſe a<g ref="char:EOLhyphen"/>bove half a dozen, or ten at the moſt, to travel together; and of theſe, the major part Indians: for the Nations in your way are prone to jealouſie and miſchief towards Chri<g ref="char:EOLhyphen"/>ſtians in a conſiderable Body, and as courteous and hearty to a few, from whom they apprehend no danger.</p>
+               <p>When you paſs thorow an even level Country, where
+<pb n="25" facs="tcp:61341:18"/>you can take no particular remarks from hill or waters to guide your ſelf by when you come back, you muſt not forget to notch the trees as you go along with your ſmall Hatchet, that in your return you may know when you fall into the ſame way which you went. By this means you will be certain of the place you are in, and may govern your courſe homeward accordingly.</p>
+               <p>In ſtead of Bread, I uſed the meal of parched <hi>Mayz,</hi> i.e. Indian Wheat; which when I eat, I ſeaſoned with a little Salt. This is both more portable and ſtrengthning then Biſ<g ref="char:EOLhyphen"/>cuit, and will ſuffer no mouldineſs by any weather. For other proviſions, you may ſecurely truſt to your Gun, the Woods being full of Fallow, and <hi>Savanae</hi> of Red-Deer, be<g ref="char:EOLhyphen"/>ſides great variety of excellent Fowl, as wilde Turkeys, Pi<g ref="char:EOLhyphen"/>geons, Partridges, Pheſants, <hi>&amp;c.</hi> But you muſt not forget to dry or barbecue ſome of theſe before you come to the Mountains: for upon them you will meet with no Game, except a few Bears.</p>
+               <p>Such as cannot lie on the ground, muſt be provided with light Hamacks, which hung in the trees, are more cool and pleaſant then any bed whatſoever.</p>
+               <p>The Order and Diſcipline to be obſerved in this Expedi<g ref="char:EOLhyphen"/>tion is, that an Indian Scout or two march as far before the reſt of the company as they can in ſight, both for the finding out proviſion, and diſcovery of Ambuſhes, if any ſhould be laid by Enemies. Let your other Indians keep on the right and left hand, armed not onely with Guns, but Bills and Hatchets, to build ſmall Arbours or Cottages of boughs and bark of trees, to ſhelter and defend you from the inju<g ref="char:EOLhyphen"/>ries of the weather. At nights it is neceſſary to make great Fires round about the place where you take up your lodging, as well to ſcare Wild-beaſts away, as to purifie the air. Neither muſt you fail to go the Round at the cloſe of the evening: for then, and betimes in the morning, the In<g ref="char:EOLhyphen"/>dians put all their deſignes in execution: in the night they never attempt any thing.</p>
+               <pb n="26" facs="tcp:61341:19"/>
+               <p>When in the remote parts you draw near to an Indian Town, you muſt by your Scouts inform your ſelf whether they hold any correſpondence with the <hi>Saſqueſahanaughs:</hi> for to ſuch you muſt give notice of your approach by a Gun; which amongſt other Indians is to be avoided, becauſe being ignorant of their uſe, it would affright and diſpoſe them to ſome treacherous practice againſt you.</p>
+               <p>Being arrived at a Town, enter no houſe until you are in<g ref="char:EOLhyphen"/>vited; and then ſeem not afraid to be led in pinion'd like a priſoner: for that is a Ceremony they uſe to friends and e<g ref="char:EOLhyphen"/>nemies without diſtinction.</p>
+               <p>You muſt accept of an invitation from the Seniors, be<g ref="char:EOLhyphen"/>fore that of young men; and refuſe nothing that is offered or ſet afore you: for they are very jealous, and ſenſible of the leaſt ſlighting or neglect from ſtrangers, and mindful of Revenge.</p>
+            </div>
+            <div type="part">
+               <head>Touching TRADE with Indians.</head>
+               <p>IF you barely deſigne a Home-trade with neighbour-Indi<g ref="char:EOLhyphen"/>ans, for skins of Deer, Beaver, Otter, Wild-Cat, Fox, Racoon, <hi>&amp;c.</hi> your beſt Truck is a ſort of courſe Trading Cloth, of which a yard and a half makes a Matchcoat or Mantle fit for their wear; as alſo Axes, Hoes, Knives, Si<g ref="char:EOLhyphen"/>zars, and all ſorts of edg'd tools. Guns, Powder and Shot, <hi>&amp;c.</hi> are Commodities they will greedily barter for: but to ſupply the Indians with Arms and Ammunition, is prohibited in all Engliſh Governments.</p>
+               <p>In dealing with the Indians, you muſt be poſitive and at a word: for if they perſwade you to fall any thing in your price, they will ſpend time in higgling for further abate<g ref="char:EOLhyphen"/>ments, and ſeldom conclude any Bargain. Sometimes you
+<pb n="27" facs="tcp:61341:19"/>may with Brandy or Strong liquor diſpoſe them to an hu<g ref="char:EOLhyphen"/>mour of giving you ten times the value of your commodi<g ref="char:EOLhyphen"/>ty; and at other times they are ſo hide-bound, that they will not offer half the Market-price, eſpecially if they be a<g ref="char:EOLhyphen"/>ware that you have a deſigne to circumvent them with drink, or that they think you have a deſire to their goods, which you muſt ſeem to ſlight and diſparage.</p>
+               <p>To the remoter Indians you muſt carry other kinde of Truck, as ſmall Looking-glaſſes, Pictures, Beads and Brace<g ref="char:EOLhyphen"/>lets of glaſs, Knives, Sizars, and all manner of gaudy toys and knacks for children, which are light and portable. For they are apt to admire ſuch trinkets, and will purchaſe them at any rate, either with their currant Coyn of ſmall ſhells, which they call <hi>Roanoack</hi> or <hi>Peack,</hi> or perhaps with Pearl, Vermilion, pieces of Chriſtal; and towards <hi>
+                     <g ref="char:V">Ʋ</g>ſhery,</hi> with ſome odde pieces of Plate or Buillon, which they ſometimes receive in Truck from the <hi>Oeſtacks.</hi>
+               </p>
+               <p>Could I have foreſeen when I ſet out, the advantages to be made by a Trade with thoſe remote Indians, I had gone better provided; though perhaps I might have run a great hazard of my life, had I purchaſed conſiderably amongſt them, by carrying wealth unguarded through ſo many dif<g ref="char:EOLhyphen"/>ferent Nations of barbarous people: therefore it is vain for any man to propoſe to himſelf, or undertake a Trade at that diſtance, unleſs he goes with ſtrength to defend, as well as an Adventure to purchaſe ſuch Commodities: for in ſuch a deſigne many ought to joyn and go in company.</p>
+               <p>Some pieces of Silver unwrought I purchaſed my ſelf of the <hi>
+                     <g ref="char:V">Ʋ</g>ſheries,</hi> for no other end then to juſtifie this account I give of my Second Expedition, which had not determined at <hi>
+                     <g ref="char:V">Ʋ</g>ſhery,</hi> were I accompanied with half a ſcore reſolute youths that would have ſtuck to me in a further diſcovery towards the Spaniſh Mines.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
